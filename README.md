@@ -1,5 +1,14 @@
 # Netflix Content Strategy Analysis 📺
 
+# 🎬 About Netflix
+
+Netflix is one of the world’s leading streaming platforms offering Movies, TV Shows, Documentaries, and Original Content across multiple countries and languages.
+
+Founded in 1997, Netflix has expanded globally and serves millions of users through subscription-based digital entertainment services.
+
+This project analyzes Netflix’s content library to identify trends, audience preferences, and business growth patterns using Exploratory Data Analysis (EDA).
+
+
 ## 📌 Project Overview
 
 This project analyzes Netflix’s content library using Python to identify trends, audience preferences, and business growth patterns.
