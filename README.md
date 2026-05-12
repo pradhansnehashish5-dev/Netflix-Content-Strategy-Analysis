@@ -8,6 +8,8 @@ Founded in 1997, Netflix has expanded globally and serves millions of users thro
 
 This project analyzes Netflix’s content library to identify trends, audience preferences, and business growth patterns using Exploratory Data Analysis (EDA).
 
+<img src="images/netflix_banner.jpg" width="900">
+
 
 ## 📌 Project Overview
 
