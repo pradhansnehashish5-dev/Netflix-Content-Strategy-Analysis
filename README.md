@@ -159,3 +159,8 @@ The analysis helps understand Netflix’s content strategy, audience behavior, a
 
 Netflix Titles Dataset from Kaggle:
 https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+---
+
+# Author
+Snehashish Pradhan
